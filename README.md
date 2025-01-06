@@ -1,7 +1,6 @@
 # AI Article Summarizer Website
 
-![Project Banner](#) <!-- ![image](https://github.com/user-attachments/assets/88eb2cbd-8364-4583-b4d0-a31089bc2c6b)
- -->
+![Project Banner](./src/assets/website.png)
 
 A modern and efficient AI-powered article summarizer built with React.js, TypeScript, Redux, and Tailwind CSS.
 
