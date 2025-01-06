@@ -1,10 +1,10 @@
 # AI Article Summarizer Website
 
-![Project Banner](#) <!-- Replace with the actual path to your banner image -->
+![Project Banner](#) <!-- ![image](https://github.com/user-attachments/assets/88eb2cbd-8364-4583-b4d0-a31089bc2c6b)
+ -->
 
 A modern and efficient AI-powered article summarizer built with React.js, TypeScript, Redux, and Tailwind CSS.
 
----
 
 ## 📋 Table of Contents
 
@@ -17,7 +17,6 @@ A modern and efficient AI-powered article summarizer built with React.js, TypeSc
 - [🚀 More](#-more)
 - [🚨 Tutorial](#-tutorial)
 
----
 
 ## 🤖 Introduction
 
@@ -25,7 +24,7 @@ Summarize lengthy articles in just one click using the power of OpenAI models. T
 
 Need help or facing bugs? Join our active [Discord community](#) with over 27k+ members for support and networking.
 
----
+
 
 ## ⚙️ Tech Stack
 
@@ -36,7 +35,7 @@ This project is built using the following technologies:
 - **Redux Toolkit**
 - **Tailwind CSS**
 
----
+
 
 ## 🔋 Features
 
@@ -55,7 +54,6 @@ This project is built using the following technologies:
 - **Advanced API Handling**  
   Leverages Redux Toolkit's RTK Query for conditional and optimized API requests.
 
----
 
 ## 🤸 Quick Start
 
