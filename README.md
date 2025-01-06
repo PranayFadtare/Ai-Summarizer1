@@ -16,8 +16,9 @@ A modern and efficient AI-powered article summarizer built with React.js, TypeSc
 - [🚀 More](#-more)
 - [🚨 Tutorial](#-tutorial)
 
-
-## 🤖 Introduction
+<br>
+<br>
+## 🤖 <b>Introduction</b>
 
 Summarize lengthy articles in just one click using the power of OpenAI models. This project is perfect for those looking to save time and quickly grasp essential information.
 
