@@ -11,10 +11,7 @@ A modern and efficient AI-powered article summarizer built with React.js, TypeSc
 - [⚙️ Tech Stack](#️-tech-stack)
 - [🔋 Features](#-features)
 - [🤸 Quick Start](#-quick-start)
-- [🕸️ Snippets](#️-snippets)
-- [🔗 Links](#-links)
-- [🚀 More](#-more)
-- [🚨 Tutorial](#-tutorial)
+
 
 
 ## 🤖 Introduction
